@@ -37,4 +37,4 @@ while True:
             time.sleep(5)
             exit()
         print("[+] Current discord status: {}".format(" ".join(current)))
-        time.sleep(1)
+        time.sleep(5)
