@@ -12,11 +12,9 @@ thats it
 So say your text status was `Hello World!`
 The outcome would be this:
 -
-`
-[+] Current discord status: Hello
+`[+] Current discord status: Hello`
 -
-[+] Current discord status: Hello World!
-`
+`[+] Current discord status: Hello World!`
 -
 and it would repeat from there.
 
